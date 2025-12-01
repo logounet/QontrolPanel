@@ -25,7 +25,7 @@
     </message>
     <message>
         <source>Panel theme</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Thème du panel</translation>
     </message>
     <message>
         <source>Avoid applications overflow</source>
@@ -313,7 +313,7 @@
     </message>
     <message>
         <source>Enable media session manager</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Activer le gestionnaire de session multimédia</translation>
     </message>
     <message>
         <source>Display currently playing media from Windows known sources</source>
@@ -361,7 +361,7 @@
     </message>
     <message>
         <source>System will restart to UEFI in %1 seconds</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Le système redémarrera en mode UEFI dans %1 seconde</translation>
     </message>
     <message>
         <source>Cancel</source>
@@ -381,7 +381,7 @@
     </message>
     <message>
         <source>Restart to UEFI</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Redémarrez en mode UEFI</translation>
     </message>
     <message>
         <source>System will hibernate in %1 seconds</source>
@@ -408,7 +408,7 @@
     <name>ConsolePane</name>
     <message>
         <source>Console output</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Sortie console</translation>
     </message>
 </context>
 <context>
@@ -490,27 +490,27 @@
     <name>DeviceRenamingPane</name>
     <message>
         <source>Renaming</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Renommage</translation>
     </message>
     <message>
         <source>Show:</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Afficher:</translation>
     </message>
     <message>
         <source>Devices</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Équipements</translation>
     </message>
     <message>
         <source>Applications</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Applications</translation>
     </message>
     <message>
         <source>Streams</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Flux</translation>
     </message>
     <message>
         <source>Custom name</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Nom personnalisé</translation>
     </message>
 </context>
 <context>
@@ -678,7 +678,7 @@ Si vous souhaitez soutenir mon travail, toute contribution serait grandement app
     </message>
     <message>
         <source>Show battery status in panel footer</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Afficher l'état de la batterie dans le pied de page du panneau</translation>
     </message>
     <message>
         <source>Headset Lighting</source>
@@ -766,7 +766,7 @@ Vous pouvez l&apos;activer dans l&apos;onglet Général.</translation>
     </message>
     <message>
         <source>Unknow date</source>
-        <translation>23.09.2025</translation>
+        <translation>01.12.2025</translation>
     </message>
     <message>
         <source>Download</source>
@@ -817,11 +817,11 @@ Vous pouvez l&apos;activer dans l&apos;onglet Général.</translation>
     <name>LoggingConfDialog</name>
     <message>
         <source>Log Categories</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Catégories de journaux</translation>
     </message>
     <message>
         <source>Enable All Logging</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Activer toute la journalisation</translation>
     </message>
 </context>
 <context>
@@ -874,7 +874,7 @@ Vous pouvez l&apos;activer dans l&apos;onglet Général.</translation>
     </message>
     <message>
         <source>Restart UEFI</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Redémarrer l'UEFI</translation>
     </message>
     <message>
         <source>Switch User</source>
@@ -909,7 +909,7 @@ Vous pouvez l&apos;activer dans l&apos;onglet Général.</translation>
     <message>
         <source>HeadsetControl</source>
         <translatorcomment>ne pas traduire &quot;HeadsetControl&quot;</translatorcomment>
-        <translation>HeadsetControl</translation>
+        <translation>Contrôle du casque</translation>
     </message>
     <message>
         <source>Shortcuts</source>
@@ -933,7 +933,7 @@ Vous pouvez l&apos;activer dans l&apos;onglet Général.</translation>
     </message>
     <message>
         <source>Renaming</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Renommage</translation>
     </message>
     <message>
         <source>Updates</source>
@@ -949,7 +949,7 @@ Vous pouvez l&apos;activer dans l&apos;onglet Général.</translation>
     </message>
     <message>
         <source>Debug</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Déboguer</translation>
     </message>
 </context>
 <context>
@@ -1054,7 +1054,7 @@ Vous pouvez l&apos;activer dans l&apos;onglet Général.</translation>
     </message>
     <message>
         <source></source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Source</translation>
     </message>
 </context>
 <context>
